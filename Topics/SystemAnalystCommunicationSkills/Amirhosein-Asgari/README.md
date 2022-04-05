@@ -41,3 +41,13 @@
 - احساس خودمختاری
 - احساس توانمندی
 - اندازه کوچک تیم
+
+
+
+https://user-images.githubusercontent.com/44033483/161834573-e6cb25cf-2be7-4114-a293-1d65323e0cd8.mp4
+
+
+### **پیوست ها**
+- [https://karboom.io/mag/career-guides/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%DA%AF%D8%B1-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85](https://karboom.io/mag/career-guides/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%DA%AF%D8%B1-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85)
+- [https://www.c-sharpcorner.com/uploadfile/nipuntomar/system-analyst-part-3/](https://www.c-sharpcorner.com/uploadfile/nipuntomar/system-analyst-part-3/)
+- [https://www.plm.automation.siemens.com/global/de/products/simcenter/system-analyst.html](https://www.plm.automation.siemens.com/global/de/products/simcenter/system-analyst.html)
