@@ -31,6 +31,6 @@
  - Quick View On Hover
  - Word Wrap
  - extensionManager
- 
- 
- 
+ - 
+برای مشاهده ویدئو به [لینک ](https://www.aparat.com/v/Kaluq)مراجعه کنید
+## ممنون از اینکه تا اینجا همراه بودید
