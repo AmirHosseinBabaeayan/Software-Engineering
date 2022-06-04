@@ -130,7 +130,7 @@
 ![image](https://user-images.githubusercontent.com/36668681/172024640-d9a19cf4-560e-4815-91d1-abdf62ce53f6.png)
 
 ### تنسورفلو (Tensorflow)
-این کتابخانه متن‌باز توسط گوگل ارائّ شده و در حوزه هوش مصنوعی است.
+این کتابخانه متن‌باز توسط گوگل ارائه شده و در حوزه هوش مصنوعی است.
 
 ![image](https://user-images.githubusercontent.com/36668681/172024650-14b0f8d3-ad29-4563-a7dc-c2e6eb616bd7.png)
 
