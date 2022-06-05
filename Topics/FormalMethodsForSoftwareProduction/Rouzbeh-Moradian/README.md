@@ -134,6 +134,11 @@
 
 <br/>
 
+## راه های ارتباطی
+Email: Rouzbehmoradian@gmail.com <br/>
+Linkedin: https://www.linkedin.com/in/rouzbehmoradian <br/>
+
+
 ## منابع
 - [https://www.techfak.uni-bielefeld.de/~mchen/BioPNML/Intro/pnfaq.html](https://www.techfak.uni-bielefeld.de/~mchen/BioPNML/Intro/pnfaq.html)
 - [https://www.neverletdown.net/2009/01/thoughts-on-formal-methods-in-software.html](https://www.neverletdown.net/2009/01/thoughts-on-formal-methods-in-software.html)
