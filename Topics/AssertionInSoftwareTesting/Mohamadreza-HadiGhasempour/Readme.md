@@ -48,8 +48,7 @@
 .
 فرض کنیم کلاس PlayerCharacter دارای دو متد Sleep و CalculateHealthIncrease برای یک بازی کامپیوتری است.  متد Sleep در مدت زمانی که کاراکتر بازی در حالت خواب است، میزان جان و سلامتی آن یعنی پراپرتی Health به مقداری رندوم بین 1 تا 101 افزایش میابد.
 همچنین مقدار اولیه پراپرتی Health به مقدار 100 می باشد.
-
-![](C:\Users\Mohamadreza\Desktop\test1.png)
+![](https://lh6.googleusercontent.com/RrET4t41mXylaa-d9TTQ1YhEwgkLSbHWtCKDOpsNvboRHxRXYI_vXwcIWQZA9NcC-3VQksiZ5QOfEdhzIDUdHNFvfuYZUbNyzIncBVYCsgHeAMAhL3_w6ACbLaygpy6pBG6YKT4Kjo_ojkGxhg)
 
 حال میخواهیم با استفاده از یک تست متد، تست کنیم که آیا بعد از Sleep جان کاراکتر بازی به مقداری که ما خواسته بودیم افزایش می یابد یا خیر؟
 کلاسی با عنوان PlayerCharacterShould در پروژه تست ایجاد میکنیم. دقت کنیم که نام کلاس های تست با عبارت Should خاتمه می یابند. این یک قرارداد است و به این معنی می باشد که که PlayerCharacter باید(Should) به شکل متد هایی که در داخل این کلاس هستند باشد.
@@ -57,14 +56,14 @@
 همچنین Annotation ای به نام Fact در XUnit نشان دهنده این است که متد نوشته شده یک متد تست است.
 
 
-![](C:\Users\Mohamadreza\Desktop\test2.png)
+![](https://lh4.googleusercontent.com/byNNrAQh1GW7i7kcHGWGJQyBiS20zxHaxobBEcnJK5jgLqm5IvtN_pvtLZJb824XXqUpAWaqxYKasBHnRvfO8SCWSPupVzP02FISAHHe3gjFAyG7QY7TIEZYZz7ZIgAL9zY5ZQ7KErRYeiW-zw)
 
 می بینیم که در متد نوشته شده در قسمت Assert تابعی با عنوان InRange صدا زده میشود. این تابع چک میکند که اگر sut.Health بین 101 و 200 باشد یعنی تست ما با موفقیت pass شده است. و اگر نباشد تست fail میشود.
 در شکل زیر در قسمت Test Explorer محیط توسعه Visual Studio می بینیم که تست ما با موفقیت پاس شد.
 
 
 
-![](C:\Users\Mohamadreza\Desktop\test3.png)
+![](https://lh5.googleusercontent.com/RW17udPVehxRZYiDcbs8iSTVummEhMD3rL7nDFr4bxwhPy0Nd1h1Fy2J__CQMYNCOCf8K_-TEUgbITSxne1W2jHuG6zA3qzTqWW-HaubdDKB4jUwmgi-UGiUerb-Jpqifn3H4tgLF5UCm_xuDA)
 
 
 # پایان
